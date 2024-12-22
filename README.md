@@ -1,5 +1,4 @@
 # VoluntariadosApp
-## **Falla la DB de firebase y no me deja añadir voluntariados. Intentaré solucionarlo a ver si me da tiempo. Lo demás en teoría es funcional.**
 ### Enlace al repositorio: https://github.com/itsedupablo/VoluntariadosApp
 ## Descripción
 VoluntariadoApp es una aplicación Android que permite gestionar voluntariados. Los usuarios pueden ver voluntariados disponibles, apuntarse a ellos y, en algunos casos, agregar nuevos voluntariados a la plataforma. La app está diseñada para ser simple y fácil de usar, con la integración de Firebase para el manejo de la autenticación de usuarios y almacenamiento de datos.
@@ -8,7 +7,6 @@ VoluntariadoApp es una aplicación Android que permite gestionar voluntariados. 
 Autenticación de Usuario: Los usuarios pueden registrarse e iniciar sesión utilizando Firebase Authentication.
 Ver Voluntariados: Los voluntariados disponibles se muestran en una lista, y los usuarios pueden consultar detalles sobre cada uno.
 Agregar Voluntariados: Los usuarios pueden agregar nuevos voluntariados a la plataforma si lo desean.
-Apuntarse a Voluntariados: Los usuarios pueden apuntarse a los voluntariados disponibles.
 Base de Datos Firebase: La aplicación utiliza Firebase Realtime Database para almacenar la información de los voluntariados y las inscripciones de los usuarios.
 ## Estructura de la Aplicación
 La aplicación se organiza en las siguientes partes:
